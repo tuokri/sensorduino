@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/sensorduino.dir/src/main.cpp.obj"
+  "CMakeFiles/sensorduino.dir/src/main.cpp.o"
   "sensorduino.pdb"
-  "sensorduino.exe"
-  "sensorduino.exe.manifest"
-  "libsensorduino.dll.a"
+  "sensorduino"
 )
 
 # Per-language clean rules from dependency scanning.

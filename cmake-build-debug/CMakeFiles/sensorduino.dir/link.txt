@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\sensorduino.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\sensorduino.dir/objects.a @CMakeFiles\sensorduino.dir\objects1.rsp
-C:\Users\tkrii_000\.platformio\packages\toolchain-atmelavr\bin\avr-g++.exe -g   -Wl,--whole-archive CMakeFiles\sensorduino.dir/objects.a -Wl,--no-whole-archive  -o sensorduino.exe -Wl,--out-implib,libsensorduino.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sensorduino.dir\linklibs.rsp
+/home/tuomo/.platformio/packages/toolchain-atmelavr/bin/avr-g++  -g  -rdynamic CMakeFiles/sensorduino.dir/src/main.cpp.o  -o sensorduino 
