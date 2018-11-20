@@ -36,3 +36,6 @@ CMakeListsPrivate.txt
 
 # CLion
 .idea
+
+# CMake
+cmake-build-debug
